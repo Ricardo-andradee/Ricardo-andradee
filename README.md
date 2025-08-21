@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Ricardo!  
 
-<!--
-**Ricardo-andradee/Ricardo-andradee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student passionate about Computer Science and others technologies.  
+I enjoy building projects that make an impact and collaborating with teams to create effective solutions.  
 
-Here are some ideas to get you started:
+## 🛠 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, Java, Dart, C, C++, C#,  OCaml
+- **Frameworks/Libraries:** ASP.NET , Flutter 
+- **Tools:** Git, VS Code, IntelliJ
+
+## 📫 How to reach me
+
+- [LinkedIn](linkedin.com/in/ricardo-andrade-172740243)  
+- [Email](ricardovfandrade@protonmail.com)
+
