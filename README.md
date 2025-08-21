@@ -12,5 +12,5 @@ I enjoy building projects that make an impact and collaborating with teams to cr
 ## 📫 How to reach me
 
 - [LinkedIn](linkedin.com/in/ricardo-andrade-172740243)  
-- [Email](ricardovfandrade@protonmail.com)
+- [Email](mailto:ricardovfandrade@protonmail.com)
 
